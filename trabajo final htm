@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+ <htmlL>
+
+ <title>Taller Introduccion a la informatica</title>
+
+ <body>
+
+
+ <h1>Ejercicio 1 HTML (introduccion a la informatica)<h1>
+
+ <h2>Paragrafos y Listas<h2>
+
+ <h3>codigo HTML<h3>
+
+
+
+ <p>Desarrollada Por: Sebastian Boveda Pedraza</p>
+
+ <p>Codigo:1010129719</p>
+
+ <p>Fecha:01/12/2019 </p>
+
+
+ <p>PARADIGMAS DE PROGRAMACION:</p>
+
+
+ <ul>
+ <li>Imperativo</li>
+ <li>Funcional</li>
+ <li>orientado a Objetos</li>
+</ul>
+
+
+<p>UNIVERSIDADES</p>
+
+ <Ol>
+ <li><a href="https://uniandes.edu.co/">Universidad de los Andes</a></li>
+ <li><a href="https:http://unal.edu.co/">Universidad Nacional de Colombia</a></li>
+ <li><a href="https://www.univalle.edu.co/">Universidad del valle</a></li>
+</Ol>
+
+
+
+<h2>AtributosHTML<h2>
+
+<p>se visualiza la siguiente informacion</p>
+
+<img src="https://raw.githubusercontent.com/gilbertovargas/html-basico/master/balon-futbol.jpg" alt="Balon" title="balon"/>
+<img src="https://raw.githubusercontent.com/gilbertovargas/html-basico/master/tenis.jpg" alt="Balon" title="balon"/>
+<img src="https://raw.githubusercontent.com/gilbertovargas/html-basico/master/raquetas.jpg" alt="Balon" title="balon"/>
+
+
+ <p>el siguiente Balon es una imagen GIF</p>
+
+<img src="https://raw.githubusercontent.com/gilbertovargas/html-basico/master/baloncesto.gif" alt="Balon" title="balon"/>
+
+
+ <p style="color:green; font-size:62px;">Texto con atributo y color verde</p>
+ <p style="color:red; font-size:22px;">Fruta: Manzana roja</p>
+ <p style="color:black; font-size:12px;">tamaño y caracteristicas de texto</p>
+ <p style="color:violet; font-size:35px;">este es otro texto con atributo de color y tamaño</p>
+
+</body>
+</htmlL>
